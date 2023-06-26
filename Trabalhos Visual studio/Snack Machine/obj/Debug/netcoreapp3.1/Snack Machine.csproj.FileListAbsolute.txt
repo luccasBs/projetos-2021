@@ -1,0 +1,18 @@
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\bin\Debug\netcoreapp3.1\Snack Machine.exe
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\bin\Debug\netcoreapp3.1\Snack Machine.deps.json
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\bin\Debug\netcoreapp3.1\Snack Machine.runtimeconfig.json
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\bin\Debug\netcoreapp3.1\Snack Machine.runtimeconfig.dev.json
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\bin\Debug\netcoreapp3.1\Snack Machine.dll
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\bin\Debug\netcoreapp3.1\Snack Machine.pdb
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\obj\Debug\netcoreapp3.1\Snack Machine.csproj.AssemblyReference.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\obj\Debug\netcoreapp3.1\Snack_Machine.Form1.resources
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\obj\Debug\netcoreapp3.1\Snack_Machine.Form2.resources
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\obj\Debug\netcoreapp3.1\Snack_Machine.Properties.Resources.resources
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\obj\Debug\netcoreapp3.1\Snack Machine.csproj.GenerateResource.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\obj\Debug\netcoreapp3.1\Snack Machine.AssemblyInfoInputs.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\obj\Debug\netcoreapp3.1\Snack Machine.AssemblyInfo.cs
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\obj\Debug\netcoreapp3.1\Snack Machine.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\obj\Debug\netcoreapp3.1\Snack Machine.dll
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\obj\Debug\netcoreapp3.1\Snack Machine.pdb
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\obj\Debug\netcoreapp3.1\Snack Machine.genruntimeconfig.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Snack Machine\obj\Debug\netcoreapp3.1\Snack Machine.GeneratedMSBuildEditorConfig.editorconfig

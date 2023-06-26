@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Snack Machine/1.0.0": {
+        "runtime": {
+          "Snack Machine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Snack Machine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

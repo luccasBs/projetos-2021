@@ -1,0 +1,16 @@
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\obj\Debug\netcoreapp3.1\Validação do CPF.csproj.AssemblyReference.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\obj\Debug\netcoreapp3.1\Validação_do_CPF.Form1.resources
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\obj\Debug\netcoreapp3.1\Validação do CPF.csproj.GenerateResource.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\obj\Debug\netcoreapp3.1\Validação do CPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\obj\Debug\netcoreapp3.1\Validação do CPF.AssemblyInfoInputs.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\obj\Debug\netcoreapp3.1\Validação do CPF.AssemblyInfo.cs
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\obj\Debug\netcoreapp3.1\Validação do CPF.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\bin\Debug\netcoreapp3.1\Validação do CPF.exe
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\bin\Debug\netcoreapp3.1\Validação do CPF.deps.json
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\bin\Debug\netcoreapp3.1\Validação do CPF.runtimeconfig.json
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\bin\Debug\netcoreapp3.1\Validação do CPF.runtimeconfig.dev.json
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\bin\Debug\netcoreapp3.1\Validação do CPF.dll
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\bin\Debug\netcoreapp3.1\Validação do CPF.pdb
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\obj\Debug\netcoreapp3.1\Validação do CPF.dll
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\obj\Debug\netcoreapp3.1\Validação do CPF.pdb
+C:\Users\lucca\Documents\Trabalhos Visual studio\Validação do CPF\obj\Debug\netcoreapp3.1\Validação do CPF.genruntimeconfig.cache

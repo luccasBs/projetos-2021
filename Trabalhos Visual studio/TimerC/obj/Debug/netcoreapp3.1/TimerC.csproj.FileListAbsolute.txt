@@ -1,0 +1,17 @@
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\bin\Debug\netcoreapp3.1\TimerC.exe
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\bin\Debug\netcoreapp3.1\TimerC.deps.json
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\bin\Debug\netcoreapp3.1\TimerC.runtimeconfig.json
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\bin\Debug\netcoreapp3.1\TimerC.runtimeconfig.dev.json
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\bin\Debug\netcoreapp3.1\TimerC.dll
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\bin\Debug\netcoreapp3.1\TimerC.pdb
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\obj\Debug\netcoreapp3.1\TimerC.csproj.AssemblyReference.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\obj\Debug\netcoreapp3.1\TimerC.Form1.resources
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\obj\Debug\netcoreapp3.1\TimerC.Properties.Resources.resources
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\obj\Debug\netcoreapp3.1\TimerC.csproj.GenerateResource.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\obj\Debug\netcoreapp3.1\TimerC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\obj\Debug\netcoreapp3.1\TimerC.AssemblyInfoInputs.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\obj\Debug\netcoreapp3.1\TimerC.AssemblyInfo.cs
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\obj\Debug\netcoreapp3.1\TimerC.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\obj\Debug\netcoreapp3.1\TimerC.dll
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\obj\Debug\netcoreapp3.1\TimerC.pdb
+C:\Users\lucca\Documents\Trabalhos Visual studio\TimerC\obj\Debug\netcoreapp3.1\TimerC.genruntimeconfig.cache

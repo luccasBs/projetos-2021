@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tjtNrlcPaxBD3uj7a1/a5Aom0zTnaxczuzKYdE1YLXykkrucAjJyQzUGMyzEP/GTxqDMjEj61XrnTvNXsdJobQ==",
+  "success": true,
+  "projectFilePath": "D:\\ETEC\\Arquivos Etec Albert Einstein 2021\\Trabalhos Visual studio\\BancaEinstein\\BancaEinstein.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luscc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\luscc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\luscc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\luscc\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

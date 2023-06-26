@@ -1,0 +1,16 @@
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\bin\Debug\netcoreapp3.1\Exerciciodesplash.exe
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\bin\Debug\netcoreapp3.1\Exerciciodesplash.deps.json
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\bin\Debug\netcoreapp3.1\Exerciciodesplash.runtimeconfig.json
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\bin\Debug\netcoreapp3.1\Exerciciodesplash.runtimeconfig.dev.json
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\bin\Debug\netcoreapp3.1\Exerciciodesplash.dll
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\bin\Debug\netcoreapp3.1\Exerciciodesplash.pdb
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\obj\Debug\netcoreapp3.1\Exerciciodesplash.csproj.AssemblyReference.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\obj\Debug\netcoreapp3.1\Exerciciodesplash.Frmsplash.resources
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\obj\Debug\netcoreapp3.1\Exerciciodesplash.Properties.Resources.resources
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\obj\Debug\netcoreapp3.1\Exerciciodesplash.csproj.GenerateResource.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\obj\Debug\netcoreapp3.1\Exerciciodesplash.AssemblyInfoInputs.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\obj\Debug\netcoreapp3.1\Exerciciodesplash.AssemblyInfo.cs
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\obj\Debug\netcoreapp3.1\Exerciciodesplash.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\obj\Debug\netcoreapp3.1\Exerciciodesplash.dll
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\obj\Debug\netcoreapp3.1\Exerciciodesplash.pdb
+C:\Users\lucca\Documents\Trabalhos Visual studio\Exerciciodesplash\obj\Debug\netcoreapp3.1\Exerciciodesplash.genruntimeconfig.cache
